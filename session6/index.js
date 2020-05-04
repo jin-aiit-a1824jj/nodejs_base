@@ -12,3 +12,9 @@ car.drive();
 
 var config = require("./config");
 console.log(JSON.stringify(config));
+
+var a = require("./lib/module-a/index.js");
+a();
+
+var b = require("./lib/module-b/index");
+b();
