@@ -2,3 +2,7 @@ npm install
 npm uninstall
 npm update
 npm ls
+
+
+npm login
+npm publish --access public --dry-run
