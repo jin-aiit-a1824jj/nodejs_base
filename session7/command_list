@@ -6,4 +6,6 @@ npm ls
 
 npm login
 npm publish --access public --dry-run
+
+npm publish --access public
 npm unpublish --force
